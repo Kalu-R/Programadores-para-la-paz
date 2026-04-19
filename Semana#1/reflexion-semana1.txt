@@ -1,0 +1,5 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+Para mí, entender la ciudadanía digital es fundamental porque hoy nuestra vida ocurre en gran parte en internet, donde cada acción que realizamos cuenta. Existe una relación directa entre el uso responsable de la información y la participación ciudadana, ya que compartir datos reales ayuda a que todos tomemos mejores decisiones como comunidad. Por otro lado, la organización técnica con herramientas como Git nos permite que nuestro trabajo sea profesional, ordenado y transparente para los demás. Aplicar un pensamiento algorítmico nos ayuda a seguir procesos lógicos, evitando errores y mejorando la calidad de lo que publicamos.
+
+En conclusión, ser un buen ciudadano digital significa unir la ética con la tecnología, demostrando que podemos colaborar de forma honesta y organizada en plataformas como GitHub. Todo esto nos prepara para ser desarrolladores conscientes del impacto que nuestro código genera en la sociedad actual.
