@@ -1,8 +1,0 @@
-El uso de herramientas como Git es muy importante porque permite llevar un control ordenado de los cambios en un proyecto.
-Gracias a esto, se pueden guardar avances y evitar la pérdida de información.
-También es útil para corregir errores, ya que se puede volver a versiones anteriores fácilmente.
-Además, Git facilita el trabajo en equipo, permitiendo que varias personas trabajen en el mismo proyecto.
-Otra ventaja es que ayuda a identificar quién hizo cada cambio y en qué momento.
-Esto mejora la organización y la responsabilidad dentro del proyecto.
-También permite tener un historial claro de todo lo que se ha realizado.
-En general, Git hace que el desarrollo sea más seguro, claro y eficiente.

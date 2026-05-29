@@ -1,8 +1,0 @@
-Repositorio:
-Es un espacio donde se guarda un proyecto junto con sus archivos y todos los cambios que se van realizando. Permite mantener el orden y tener acceso a diferentes versiones del trabajo.
-
-Commit:
-Es una acción que guarda los cambios realizados en el proyecto. Funciona como una especie de “foto” del estado del proyecto en un momento específico, acompañada de un mensaje descriptivo.
-
-Push:
-Es el proceso de enviar los cambios guardados desde el computador al repositorio en línea, como GitHub. Esto permite actualizar el proyecto y compartirlo con otras personas.
