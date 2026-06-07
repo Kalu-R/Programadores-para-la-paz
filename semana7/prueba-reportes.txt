@@ -1,0 +1,3 @@
+Al consultar la ruta GET /reportes, el servidor devuelve una lista con todos los reportes que han sido registrados previamente mediante la ruta POST /reportes.
+
+En la prueba realizada, la respuesta mostró un arreglo con un reporte registrado, incluyendo su id, tipo y descripción. Esto demuestra que la información enviada mediante POST se almacena temporalmente en memoria y puede ser consultada posteriormente usando GET.
