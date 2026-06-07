@@ -1,0 +1,10 @@
+La capacidad de recibir información enviada por los ciudadanos es fundamental en las plataformas tecnológicas modernas.
+Permite recopilar datos de manera organizada y estructurada.
+Esto facilita el análisis y la gestión de la información recibida.
+Los reportes ciudadanos ayudan a identificar problemas que afectan a la comunidad.
+Además, permiten tomar decisiones basadas en información real y actualizada.
+El uso de formatos como JSON mejora la comunicación entre usuarios y sistemas.
+También reduce errores en el procesamiento de los datos.
+Las plataformas pueden responder más rápidamente a las necesidades de los ciudadanos.
+Esto fortalece la participación comunitaria y la transparencia.
+Por estas razones, recibir información estructurada es esencial para ofrecer servicios digitales eficientes y confiables.
