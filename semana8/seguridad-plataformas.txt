@@ -1,0 +1,9 @@
+1. Utilizar contraseñas seguras y cambiarlas periódicamente.
+
+2. Verificar la identidad de los usuarios antes de otorgar acceso.
+
+3. Realizar copias de seguridad de la información de manera frecuente.
+
+4. Mantener actualizados los sistemas y aplicaciones de la plataforma.
+
+5. Capacitar a los usuarios sobre buenas prácticas de seguridad digital.
