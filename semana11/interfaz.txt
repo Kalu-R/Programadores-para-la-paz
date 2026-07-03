@@ -1,0 +1,9 @@
+La interfaz estaría diseñada para que los usuarios encuentren fácilmente las opciones principales de la plataforma comunitaria.
+
+En la parte inicial habría un formulario que permita registrar una nueva causa con la información necesaria para su publicación.
+
+Además, contaría con una sección donde se muestren todas las causas registradas para que cualquier persona pueda consultarlas.
+
+Cada causa tendría un botón para expresar el apoyo a la iniciativa y un contador que refleje el número de apoyos recibidos.
+
+Finalmente, la interfaz sería intuitiva, ordenada y protegería la privacidad de los usuarios al no mostrar información confidencial.

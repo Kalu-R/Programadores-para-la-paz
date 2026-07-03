@@ -1,0 +1,8 @@
+Una plataforma tecnológica necesita una base de datos porque permite guardar la información de forma organizada y facilitar su consulta.
+Además, la autenticación de usuarios ayuda a controlar quién puede acceder a determinadas funciones del sistema.
+De esta manera, solo las personas autorizadas pueden realizar acciones importantes dentro de la plataforma.
+Por otro lado, proteger la información es fundamental para evitar que los datos sean utilizados de forma incorrecta.
+Asimismo, esto genera mayor confianza entre los usuarios y promueve una participación más segura.
+También permite que la comunidad utilice la plataforma con tranquilidad y responsabilidad.
+Como resultado, se fortalece la organización y el seguimiento de las actividades comunitarias.
+En conclusión, contar con base de datos, autenticación y protección de la información hace que la plataforma sea más segura, confiable y útil para todos.

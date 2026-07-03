@@ -1,0 +1,26 @@
+- Entidad: Solicitud comunitaria
+
+- Campos principales:
+
+* id
+* usuario_id
+* titulo
+* descripcion
+* categoria
+* fecha_creacion
+
+- Propósito:
+Guardar las solicitudes o necesidades registradas por los ciudadanos para que puedan ser revisadas, organizadas y atendidas por la comunidad o los coordinadores.
+
+- Entidad: Seguimiento
+
+- Campos principales:
+
+* id
+* solicitud_id
+* estado
+* observaciones
+* fecha_actualizacion
+
+- Propósito:
+Registrar el avance de cada solicitud comunitaria y llevar un historial de las acciones realizadas hasta su solución.
