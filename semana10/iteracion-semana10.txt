@@ -1,0 +1,21 @@
+¿Qué 2 tareas del backlog harías primero?
+
+1. Registrar las necesidades del barrio.
+2. Recibir una notificación cuando haya una reunión o actividad comunitaria.
+
+
+¿Por qué son las más importantes?
+
+Estas tareas son las más importantes porque permiten conocer las necesidades de la comunidad y mantener informadas a las personas para que puedan participar activamente en las actividades y en la búsqueda de soluciones.
+
+
+¿Qué significa para ti que una tarea esté "terminada"?
+
+Para mí, una tarea está terminada cuando cumple con el objetivo propuesto, ha sido revisada y puede utilizarse correctamente sin presentar errores.
+
+
+Definición de terminado:
+
+* La tarea funciona correctamente y fue probada únicamente con datos simulados, sin utilizar información real.
+* Fue revisada por otro miembro del equipo para verificar que cumple con lo solicitado.
+* El trabajo quedó registrado, guardado y publicado correctamente en Git.
