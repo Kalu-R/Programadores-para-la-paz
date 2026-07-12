@@ -1,0 +1,9 @@
+1. Un usuario ingresa a la plataforma y registra una nueva petición comunitaria.
+
+2. El sistema almacena la información de la petición en la base de datos.
+
+3. Otros usuarios pueden consultar las peticiones disponibles y apoyar la que consideren importante.
+
+4. Cada nuevo apoyo queda registrado y el sistema actualiza automáticamente la cantidad de apoyos recibidos.
+
+5. Cuando la petición alcanza los apoyos necesarios, el sistema genera un documento PDF para presentarlo ante la entidad correspondiente.

@@ -1,0 +1,5 @@
+Evento: Cuando una causa recibe un nuevo apoyo por parte de un ciudadano.
+
+Mensaje: Se registró un nuevo apoyo para una causa comunitaria. Ingresa a la plataforma para consultar la actualización."
+
+Información que no debe enviarse: Documentos de identidad (cédulas), números de teléfono, direcciones, correos electrónicos, contraseñas, comentarios privados ni otros datos personales de los usuarios.
